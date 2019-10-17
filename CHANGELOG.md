@@ -1,5 +1,9 @@
 # Changelog
 
+### v0.9.17
+- Add `minTimeout` option for client
+  [@jedwards1211](https://github.com/jedwards1211) in [#675](https://github.com/apollographql/subscriptions-transport-ws/pull/675)
+  
 ### v0.9.16
 - Add ability to set custom WebSocket protocols for client. <br/>
   [@pkosiec](https://github.com/pkosiec) in [#477](https://github.com/apollographql/subscriptions-transport-ws/pull/477)
